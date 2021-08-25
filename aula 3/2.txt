@@ -1,0 +1,7 @@
+void main() {
+
+  int entrada = 15;
+  int pessoas = 4;
+  
+  print(entrada*pessoas);
+}

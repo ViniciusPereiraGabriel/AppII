@@ -1,0 +1,13 @@
+void main() {
+
+  var nome = 'vinicius';
+  var sobrenome = 'pereira';
+  int idade = 17;
+  var endereco = 'caxias do sul'; 
+
+    print(nome);
+    print(sobrenome);
+    print(idade);
+    print(endereco);
+
+}

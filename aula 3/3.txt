@@ -1,0 +1,8 @@
+void main() {
+
+    var basemenor = 10;
+    var basemaior = 15;
+    var altura = 5;
+  print('area do trapezio é:');
+  print (((basemaior + basemenor) * altura) /2);
+}

@@ -1,0 +1,8 @@
+void main() {
+
+      int lado1 = 5;
+      int lado2 = 5;
+  
+  print("a area do quaadrado é");
+  print(lado1 * lado2);
+}
